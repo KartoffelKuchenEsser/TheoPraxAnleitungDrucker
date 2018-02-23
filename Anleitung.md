@@ -1,5 +1,4 @@
-#
-Anleitung zum Drucker der Begabten-AG
+###Anleitung zum Drucker der Begabten-AG
 
 ## Gliederung
 
@@ -627,3 +626,4 @@ und setzen den Extruder wieder zusammen.
 | **Gefahrenbezeichung \(Kennbezeichnung\)** | keine | Reizend \(Xi\) | keine |
 | **Eigenschaften** | biologisch abbaubar | hohe Belastbarkeit | wasserl�slich \(Druck von St�tzmaterialien\) |
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+CC-BY-NC-SA 4.0 Noël O.
