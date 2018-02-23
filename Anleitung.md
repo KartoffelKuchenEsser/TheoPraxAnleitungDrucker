@@ -1,4 +1,4 @@
-### Anleitung zum Drucker der Begabten-AG
+# Anleitung zum Drucker der Begabten-AG
 
 ## Gliederung
 
@@ -553,13 +553,9 @@ und setzen den Extruder wieder zusammen.
 ### Lücken
 
 **Lücken und Löcher in den Top Layern**
-
 **Lücken und Löcher in den Ecken am Boden**
-
 **Lücken in den Bottom Layer**
-
 **Lücken zwischen dem Infill und den Outlines**
-
 **Lücken bei Dünnen Wänden \(z.B. Bei Schriftzügen\)**
 
 ### Keine / zu geringe Extrusion
@@ -621,6 +617,9 @@ und setzen den Extruder wieder zusammen.
 
 #### Software
 
+##### SkyNet
+Standartmäßig ist auf unserem Anet A8 Drucker SkyNet als Software installiert. Falls diese Software noch einmal neu aufgesetzt werden muss, kann man sie unter der GitHub Seite https://github.com/thijsk/Skynet3d herunterladen.
+
 #### Materialien
 
 | Name | PLA | ABS | PVA |
@@ -630,4 +629,3 @@ und setzen den Extruder wieder zusammen.
 | **Gefahrenbezeichung \(Kennbezeichnung\)** | keine | Reizend \(Xi\) | keine |
 | **Eigenschaften** | biologisch abbaubar | hohe Belastbarkeit | wasserl�slich \(Druck von St�tzmaterialien\) |
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
-CC-BY-NC-SA 4.0 Noël O.
