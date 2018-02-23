@@ -553,9 +553,13 @@ und setzen den Extruder wieder zusammen.
 ### Lücken
 
 **Lücken und Löcher in den Top Layern**
+
 **Lücken und Löcher in den Ecken am Boden**
+
 **Lücken in den Bottom Layer**
+
 **Lücken zwischen dem Infill und den Outlines**
+
 **Lücken bei Dünnen Wänden \(z.B. Bei Schriftzügen\)**
 
 ### Keine / zu geringe Extrusion
