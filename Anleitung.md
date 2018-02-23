@@ -1,4 +1,4 @@
-###Anleitung zum Drucker der Begabten-AG
+### Anleitung zum Drucker der Begabten-AG
 
 ## Gliederung
 
