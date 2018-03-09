@@ -558,6 +558,9 @@ Dabei ist das Problem, dass die Extruder-Düse verstopft ist und der Extruder mi
 Zahnrad die Splitter vom Filament abschabt und dabei dieses durchaus durchtrennen kann. 
 Die Folgen davon können sein dass das Filament unterbrochen ist und es zu ghosting kommt.
 
+Nehmen sie eine sehr dünne Nadel und schieben sie das abgetrennte Ende in den auf 240° aufgeheiztes
+Hotend bis unten ein Filamentstreifen von mindestens 15cm rauskommt oder sich der Wiederstand gelöst hat.
+Danach führen sie das Filament wieder korrekt 
 
 
 ### Lücken
