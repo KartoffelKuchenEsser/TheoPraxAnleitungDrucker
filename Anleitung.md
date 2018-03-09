@@ -549,6 +549,16 @@ Ziehen sie dann das Filament in einer flüssigen Bewegung wieder heraus,
 und setzen den Extruder wieder zusammen.
 
 **Beschädigung des Filaments \(Plastikflocken/Splitter sind zu sehen\)**:
+Wenn dies geschehen ist sieht es ungefähr so aus: 
+BILD
+Wie man sehen kann, haben sich Flocken gebildet die, entweder auf dem Extruder  
+oder darunter, liegen und aus dem Extruder-Bereich zu fallen scheinen.
+
+Dabei ist das Problem, dass die Extruder-Düse verstopft ist und der Extruder mit seienem
+Zahnrad die Splitter vom Filament abschabt und dabei dieses durchaus durchtrennen kann. 
+Die Folgen davon können sein dass das Filament unterbrochen ist und es zu ghosting kommt.
+
+
 
 ### Lücken
 
