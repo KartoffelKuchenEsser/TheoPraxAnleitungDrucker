@@ -558,15 +558,30 @@ Dabei ist das Problem, dass die Extruder-Düse verstopft ist und der Extruder mi
 Zahnrad die Splitter vom Filament abschabt und dabei dieses durchaus durchtrennen kann. 
 Die Folgen davon können sein dass das Filament unterbrochen ist und es zu ghosting kommt.
 
-Nehmen sie eine sehr dünne Nadel und schieben sie das abgetrennte Ende in das auf 240°C aufgeheiztes
-Hotend bis unten ein Filamentstreifen von mindestens 15cm rauskommt oder sich der Wiederstand gelöst hat.
-Danach führen sie das Filament wieder korrekt ein. Und folgen den Anweisungen unter dem Punkt “Filament wechseln“
+Wenn dies geschehen ist durchtrennen sie das Filament, oder kürzen sie es auf die Düsenhöhe,  
+folgen sie danach den Instruktionen bei "Filament wechseln".
 
 
 ### Lücken
 
 **Lücken und Löcher in den Top Layern**
-**Lücken und Löcher in den Ecken am Boden**
+Wenn die oberste Schicht des Druck-Objekts Lücken aufweist, kann dies verschiedene Folgen haben:
+
+1. Es kann daran Liegen, dass die Top-Schicht in Cura zu gering eingestellt wurde. 
+Als Lösung kannst du die "Top Layer" Einstellung höher stellen.
+
+2. Es kann daran liegen, dass die Infill Zahl zu gering ist. 
+Als Lösung kannst du die "Infill" Zahl höher stellen.
+
+3. Es kann daran liegen, das die Nozzle zu wenig Plastik ausscheidet.
+Schaue für eine Lösung unter "Under Extrusion".
+
+**Lücken und Löcher in den Ecken**
+Wenn die Ecken und Umkehrpunkte beim Druck-Objekt nicht mit anderen Punkten abschließen,  
+kann es daran liegen, dass es eine Under Extrusion ist.  
+Für eine Lösung schaue unter Under Extrusion.
+
+
 **Lücken in den Bottom Layer**
 **Lücken zwischen dem Infill und den Outlines**
 **Lücken bei Dünnen Wänden \(z.B. Bei Schriftzügen\)**
