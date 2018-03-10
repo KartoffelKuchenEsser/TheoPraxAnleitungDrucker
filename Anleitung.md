@@ -579,12 +579,27 @@ Schaue für eine Lösung unter "Under Extrusion".
 **Lücken und Löcher in den Ecken**
 Wenn die Ecken und Umkehrpunkte beim Druck-Objekt nicht mit anderen Punkten abschließen,  
 kann es daran liegen, dass es eine Under Extrusion ist.  
-Für eine Lösung schaue unter Under Extrusion.
+Für eine Lösung schauen sie unter Under Extrusion. 
 
 
 **Lücken in den Bottom Layer**
+Dabei kommt es zu keinem guten Abschluss bei der ersten Schicht.
+1. Sie müssen das Leveling neu machen.
+2. Es handelt sich um einen temporeren Fall von Underextrusion,  
+der sich beim Druck selbst gelöst hat
+
+
 **Lücken zwischen dem Infill und den Outlines**
+
+1. Sie drucken zu schnell. Stellen sie die Druckgeschwindigkeit runter
+2. Es handelt sich um eine Under Extrusion. Sehen sie Under Extrusion
+3. Es ist beides.
+
 **Lücken bei Dünnen Wänden \(z.B. Bei Schriftzügen\)**
+Zwischen den Wänden herscht leere.
+
+1. Es handelt sich um eine zu geringe Extrusion Dicke. Stellen sie die Extrusion höher.
+2. Es handelt sich um eine zu hohe Wanddicke. Ändern sie sie in Cura.
 
 ### Keine / zu geringe Extrusion
 
