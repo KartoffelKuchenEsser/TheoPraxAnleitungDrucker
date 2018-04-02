@@ -604,6 +604,14 @@ Zwischen den Wänden herscht leere.
 ### Keine / zu geringe Extrusion
 
 **Keine Ausgabe des Filaments am Anfang des Druckers**
+Es könnte sein das die Düse verstopft ist, oder die Drucktemperatur zu niedrig eingestellt ist.  
+Oder der Z-Offset ist zu niedrig eingestellt.
+
+1. Nehmen sie eine sehr feine Nadel (kleiner als 0,4mm) und lösen sie die Verstopfung.
+2. Stellen sie in CUra die Drucktempereatur um 5°C höher, solange bis das Filament genügent fließt.
+3. Die Wahrschnlichste Lösung. Stellen sie mit der vorher erklärten Methode  
+(Einstellen des Druckers) den Z-Offste niedriger.
+
 **Beendigung des Extrudens während des Druckers**
 **Ungleichmäßiges Extruden**
 **Under Extrusion**
