@@ -663,13 +663,15 @@ Oder der Z-Offset ist zu niedrig eingestellt.
 ## Mögliche Verbesserungen
 
 #### Hardware
-
+Löten
+Bowden
+Verstärkungen
 ##### Software Anpassungen
-
+Neustes Skynet
 #### Software
 
 ##### SkyNet
-Standartmäßig ist auf unserem Anet A8 Drucker SkyNet als Software installiert. Falls diese Software noch einmal neu aufgesetzt werden muss, kann man sie unter der GitHub Seite https://github.com/thijsk/Skynet3d herunterladen.
+Standartmäßig ist auf unserem Anet A8 Drucker SkyNet als Software installiert. Falls diese Software noch einmal neu aufgesetzt werden muss, kann man sie unter der GitHub Seite https://github.com/thijsk/Skynet3d heruntergeladen werden.
 
 #### Materialien
 
