@@ -91,7 +91,7 @@
 ## Vorwort
 
 Dieser Text beinhaltet die Betriebsanleitung für den 3D-Drucker "Anet A8"
-der Begabten-AG \| Chemie Der Text behandelt besonders die verschiedenen Probleme
+der Begabten-AG \| Chemie Der Text behandelt besonders die verschiedenen Probleme,
 deren Grund und wie man dies Beheben kann.
 Es werden verschiedene Englische "Fachbegriffe" verwendet, diese sollten sie
 aber recht schnell verinnerlicht haben.
@@ -105,7 +105,7 @@ die zum besseren Verständnis beitragen_
 Und sind immer vom Text abgesetzt.
 
 **Fett** geschrieben Wörter sind extrem wichtig, bei ihnen sollte man **immer**
-darauf achten das sie korrekt eingehalten sind.
+darauf achten, dass sie korrekt eingehalten sind.
 
 ---
 
@@ -149,11 +149,11 @@ Wird auf einer Spule aufgerollt.
 **Gcode:** Die Sprache die jeder Drucker, auf jeden Fall die Open Source,
 verwendet kann.
 
-**Induktiver Druck-Sensor/Sensor:** Ein Sensor der auf metallische
+**Induktiver Druck-Sensor/Sensor:** Ein Sensor, der auf metallische
 Gegenstände reagiert. Damit kann die erste Layer einfach eingestellt werden,
 da der Drucker die 0,1mm Differenz selbs einstellt.
 
-**Infill:** Das Infill ist das MAterial im Objekt um so geringer die Infill-Zahl
+**Infill:** Das Infill ist das Material im Objekt um so geringer die Infill-Zahl
 umso geringer ist die Dichte des Objekts.
 
 **Layer:** Englisches Wort für Schicht.
@@ -175,9 +175,9 @@ die richtigen Einstellungen eintragen.
 
 ### Software
 
-Um 3D-Dateien drucken zu können sollte man sich einen geeigneten Slicer zulegen.
+Um 3D-Dateien drucken zu können, sollte man sich einen geeigneten Slicer zulegen.
 Die folgende Anleitung geht vom kostenlosen Open Source Slicer "Cura" aus.
-Diesen Slicer würde ich persönlich absolut jedem ans Herz legen
+Diesen Slicer würde ich persönlich absolut jedem ans Herz legen,
 der nicht hauptberuflich 3D-Druck betreibt.
 In diesem Fall wäre Meshmixer die viel bessere Wahl,
 dieser ist jedoch kostenpflichtig.
@@ -222,8 +222,8 @@ oder aber sie fügen diese Zeilen ein:
 > G92 E0
 > G1 F840
 
-Bei Den "Printhead Settings" wird überall **0** eingefügt,
-bis man zum Punkt "Number of extruders" kommt dort wird eine **1** eingefügt.
+Bei den "Printhead Settings" wird überall **0** eingefügt,
+bis man zum Punkt "Number of extruders" kommt, dort wird eine **1** eingefügt.
 Bei "Material Diameter" : 1,75mm
 Nozzle Size : 0,4mm
 
@@ -276,7 +276,7 @@ Stangen, auf wackelfreien Sitz überprüfen.
 
 Wenn eine Stange der X-Achse wackelt,
 sollte sie die Feststell-Schrauben \(kleiner Imbus\) auf der Rückseite der rechten
-Aufhängung nachziehen. Nachdem sie beide Stangen bis zum Anschlag nach links
+Aufhängung nachziehen, nachdem sie beide Stangen bis zum Anschlag nach links
 geschoben haben.
 
 Wenn eine der Y-Achsenstangen wackelt,
@@ -288,10 +288,10 @@ und auch absolut nicht wackelt.
 **Ausrichtung**
 Nun müssen sie die waagerechte Ausrichtung der X-Achse kontrollieren
 und eventuell anpassen. Drehen sie von Hand an beiden Achsen-Kupplungen
-der Z-Achse so das der Extruder vom Heatbed wegbewegt wird. Nehmen sie dann
+der Z-Achse so, dass der Extruder vom Heatbed wegbewegt wird. Nehmen sie dann
 einen Messschieber zur Hand und messen sie den Abstand zwischen der unteren
 Kante der X-Achsen Führungsstange und der oberen Kante der Z-Achsen Motoren.
-Messen sie auf beide Seiten, sodass die X-Achse gerade ausgerichtet ist.
+Messen sie auf beiden Seiten, sodass die X-Achse gerade ausgerichtet ist.
 
 ### Leveling
 
@@ -366,17 +366,17 @@ Drücken sie auf "Preheat PLA"
 
 > Prepare&gt;&gt;Preheat&gt;&gt;Preheat PLA&gt;&gt;Preheat PlA
 
-Damit heizen sie Bed und Extruder gleichzeitig hoch, wenn du nur drucken würdest
+Damit heizen sie Bed und Extruder gleichzeitig hoch, wenn sie nur drucken würden
 ohne zu Preheaten dauert es länger, da der Drucker erst Bed
 und dann Extruder hochheizt.
 
-Drücken sie jetzt den linken Knopf so oft bis sie wieder im Statusmenü sind.
+Drücken sie jetzt den linken Knopf so oft, bis sie wieder im Statusmenü sind.
 Drücken sie dann auf den Namen ihrer Druckdatei.
 
 > Print from SD-Card&gt;&gt;Refresh&gt;&gt;"Datei-Name"
 
 Schauen sie sich den ersten Layer bzw. den Skirt an und beurteilen
-sie das Ergebnis. Die nächsten Schritte die sie Eventuell tun sollten
+sie das Ergebnis. Die nächsten Schritte die sie Eventuell tun sollten,
 sind unter "Qualitätssicherung" beschrieben.
 
 Nachdem sie die eventuellen Änderungen vorgenommen haben,
@@ -384,9 +384,9 @@ starten sie den Druck nochmal. Ansonsten lassen sie den Druck durchlaufen.
 
 ---
 
-Während des Druckvorgangs, besonders bei langzeit Projekten, sollten sie schauen
+Während des Druckvorgangs, besonders bei langzeit Projekten, sollten sie schauen,
 ob sich Probleme zeigen oder die Spule fehlerhaft aufgerollt ist, dann sollten
-sie möglichst schnell den Roll-Fehler beheben, sonst kann es sein das der
+sie möglichst schnell den Roll-Fehler beheben, sonst kann es sein, dass der
 Drucker ohne Filament druckt.
 
 ---
@@ -405,8 +405,8 @@ kann es sein, dass das Objekt dabei kaputt geht.
 
 ### Qualitätssicherung
 
-Schauen sie sich den Skirt an und beurteilen sie ob die erste Schicht
-zu Hoch oder zu niedrig gedruckt wird.
+Schauen sie sich den Skirt an und beurteilen sie, ob die erste Schicht
+zu hoch oder zu niedrig gedruckt wird.
 
 **Zu hoch**
 
@@ -422,7 +422,7 @@ gehen sie nicht zu weit runter.
 
 _Dabei können sie das Heatbed verbiegen_
 
-Wiederholen sie diese Prozedur solange bis sie auf der richtigen Höhe sind.
+Wiederholen sie diese Prozedur solange, bis sie auf der richtigen Höhe sind.
 
 **Zu niedrig**
 
@@ -435,8 +435,8 @@ Danach stellen sie den "offset" höher \(oben bereits beschrieben\).
 _Bei einer Layerheight von 0,1mm sollten sie die Höhe \(Offset\) auf 0,75microm
 stellen. Da aber der Sensor nicht auf der gleichen Höhe ist wie die Nozzle.
 Nehmen sie einen Kassenzettel zur Hand und legen sie ihn \(bei kalter Nozzle\)
-unter den Extruder solange bis man ihn mit etwas Kraftaufwand verschieben kann.
-Das ist deshalb möglich da Kassenzettel eine durchschnittliche Dicke
+unter den Extruder, solange bis man ihn mit etwas Kraftaufwand verschieben kann.
+Das ist deshalb möglich, da Kassenzettel eine durchschnittliche Dicke
 von 0,1mm hat._
 
 ### Pflege
@@ -472,15 +472,15 @@ ggf. korrigiert werden. Der Prozess ist erklärt unter:
 &gt;&gt;Hardware-Einstellungen&gt;&gt;Achsenvorbereitung&gt;&gt;Ausrichtung.
 
 **Heatbed**: Das Heatbed ist eine Aluminium-Platte mit Heizstreifen
-auf der Unterseite. Dort befindet sich auch eine LED die den Status
+auf der Unterseite. Dort befindet sich auch eine LED, die den Status
 des Heatbeds anzeigt. Auf dem Heatbed ist ein Adhäsions-Pad aufgeklebt,
 welches die Haftung des Druckobjekts während des Drucks verbessert und
 das Ablösen nach dem Druck unterstützt.
 Wenn sich PLA Reste auf dem Pad befinden,
 schaben sie diese mit einer Spachtel ab.
 Falls das Pad zu stark, durch die Nozzle,
-beschädigt wurde. Sollten sie es austauschen.
-Dazu ziehen sie das Pad ab und reinigen sie die darunteliegende Fläche
+beschädigt wurde, sollten sie es austauschen.
+Dazu ziehen sie das Pad ab und reinigen die darunteliegende Fläche
 mit Scheibenreiniger. Danach kleben sie ein neues Pad auf.
 
 **Höhe**: Die Höhe sollte bei jedem Druck neukontrolliert und korrigiert werden.
@@ -499,7 +499,7 @@ Dazu wird am eingebauten Y-Achsen Spanner leicht gedreht,
 bis sie es als gespannt erachten.
 _Drehen sie nicht zu stark_
 
-Um die X-Achse zu spannen drehen sie mit einem Schraubendreher
+Um die X-Achse zu spannen, drehen sie mit einem Schraubendreher
 die Spannschraube, am weißen Riemenspanner, weiter nach unten.
 Wenn der Riemenspanner an seine Grenzen kommt, sollten sie den gesamten
 Riemen nochmal neu spannen.
@@ -519,10 +519,10 @@ zusetzt.
 Zum Reinigen der Nozzle holen sie sich ein kleines Behältnis mit
 einer kleinen Menge Tetrahydfrofuran _Vorsicht: Brennbar_.
 Einen Bunsenbrenner und einen dünnen Metaldraht.
-Legen sie die Abmontierte Nozzle in das Gefäß und lassen sie es einwirken.
+Legen sie die abmontierte Nozzle in das Gefäß und lassen sie es einwirken.
 Nehmen sie dann die Nozzle heraus und legen sie sie zum trocknen auf ein Tuch.
 Zünden sie nun den Bunsenbrenner an und erheizen sie die Nozzle bis zur Rotglut.
-Nehmen sie dann den Draht und stecken sie ihn in die Nozzleöffnung vin beiden
+Nehmen sie dann den Draht und stecken sie ihn in die Nozzleöffnung von beiden
 Seiten, bis sie sicher sind, dass die Nozzle komplett frei ist.
 Legen sie die Nozzle dann zum Abkühlen auf eine feuerfeste Unterlage und
 montieren sie die Nozzle wieder am Extruder.
@@ -543,22 +543,22 @@ Heizen sie die Nozzle auf 240 °C hoch.
 > Prepare&gt;&gt;Preheat ABS
 
 Nehmen sie einen dünnen, spitzen Gegenstand zur Hilfe und drücken sie das
-Filament durch die Nozzle, sodass sie am anderen Ende herauskommt.
+Filament durch die Nozzle, sodass es am anderen Ende herauskommt.
 Nehmen sie dann ein Stück Filament und schieben es hinterher.
 Ziehen sie dann das Filament in einer flüssigen Bewegung wieder heraus,
 und setzen den Extruder wieder zusammen.
 
 **Beschädigung des Filaments \(Plastikflocken/Splitter sind zu sehen\)**:
-Wenn dies geschehen ist sieht es ungefähr so aus: 
+Wenn dies geschehen ist, sieht es ungefähr so aus: 
 BILD
-Wie man sehen kann, haben sich Flocken gebildet die, entweder auf dem Extruder  
-oder darunter, liegen und aus dem Extruder-Bereich zu fallen scheinen.
+Wie man sehen kann, haben sich Flocken gebildet, die entweder auf dem Extruder  
+oder darunter liegen und aus dem Extruder-Bereich zu fallen scheinen.
 
 Dabei ist das Problem, dass die Extruder-Düse verstopft ist und der Extruder mit seienem
 Zahnrad die Splitter vom Filament abschabt und dabei dieses durchaus durchtrennen kann. 
-Die Folgen davon können sein dass das Filament unterbrochen ist und es zu ghosting kommt.
+Die Folgen davon können sein, dass das Filament unterbrochen ist und es zu ghosting kommt.
 
-Wenn dies geschehen ist durchtrennen sie das Filament, oder kürzen sie es auf die Düsenhöhe,  
+Wenn dies geschehen ist, durchtrennen sie das Filament, oder kürzen sie es auf die Düsenhöhe,  
 folgen sie danach den Instruktionen bei "Filament wechseln".
 
 
@@ -586,7 +586,7 @@ Für eine Lösung schauen sie unter Under Extrusion.
 Dabei kommt es zu keinem guten Abschluss bei der ersten Schicht.
 1. Sie müssen das Leveling neu machen.
 2. Es handelt sich um einen temporeren Fall von Underextrusion,  
-der sich beim Druck selbst gelöst hat
+der sich beim Druck selbst gelöst hat.
 
 
 **Lücken zwischen dem Infill und den Outlines**
@@ -604,7 +604,7 @@ Zwischen den Wänden herscht leere.
 ### Keine / zu geringe Extrusion
 
 **Keine Ausgabe des Filaments am Anfang des Druckers**
-Es könnte sein das die Düse verstopft ist, oder die Drucktemperatur zu niedrig eingestellt ist.  
+Es könnte sein, dass die Düse verstopft ist, oder die Drucktemperatur zu niedrig eingestellt ist.  
 Oder der Z-Offset ist zu niedrig eingestellt.
 
 1. Nehmen sie eine sehr feine Nadel (kleiner als 0,4mm) und lösen sie die Verstopfung.
@@ -671,7 +671,7 @@ Neustes Skynet
 #### Software
 
 ##### SkyNet
-Standartmäßig ist auf unserem Anet A8 Drucker SkyNet als Software installiert. Falls diese Software noch einmal neu aufgesetzt werden muss, kann man sie unter der GitHub Seite https://github.com/thijsk/Skynet3d heruntergeladen werden.
+Standartmäßig ist auf unserem Anet A8 Drucker SkyNet als Software installiert. Falls diese Software noch einmal neu aufgesetzt werden muss, kann man sie unter der GitHub Seite https://github.com/thijsk/Skynet3d herunterladen.
 
 #### Materialien
 
