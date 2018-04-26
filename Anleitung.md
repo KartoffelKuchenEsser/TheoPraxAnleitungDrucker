@@ -691,7 +691,18 @@ Können wir ihnen die Lösung zu diesem Problem nicht geben.
 ### Infill
 
 **Schwaches / Fehlerhaftes Infill**
-**Infill ist von außen zu sehen**
+Das Infill ist eingebrochen. Dies kann mehrere Gründe haben.
+
+1. Die Infilldicke ist zu klein eingestellt.
+Wie man diese Einstellung ändert entzieht sich unserem Wissensbereich. Vermutlich ist dies bei Cura nicht möglich.
+
+2. Die Infillzahl ist zu niedrig
+Stellen sie sie hoch.
+
+**Das Infill ist von außen zu sehen**
+Wie gesagt kann man das Infill von außen sehen. Dabei ist die Außen-Wand zu dünn. 
+1. Stellen sie in Cura die Wanddicke hoch.
+
 
 ### Diverses
 
