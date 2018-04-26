@@ -658,6 +658,13 @@ Dabei müssen sie sorgfältig arbeiten, sodass sie das Objekt nicht schmelzen.
 Dabei "verbrennen" die kleinen Strings.
 
 **"Blobs und Zits"**
+Blobs oder Zits, sind kleine, dickere Unregelmäßigkeiten in der Äußersten Schicht.
+Sie entstehen durch das Neuansetzen an dem Punkt und stellen eine Unregelmäßigkeit dar und sind 
+gleichzeitig eine punktuelle Over-Extrusion.
+
+1. Dieses Problem lässt sich durch die Benutzung von Simplify 3D (Slicer) beheben. Da wir diesen kostenpflichtigen Slicer nicht besitzen.
+Können wir ihnen die Lösung zu diesem Problem nicht geben.
+
 **Rillen in den Top Layern**
 **Rillen an den Seiten des Druckobjekts**
 **Unterer Teil des Objekts ist eingedrückt**
