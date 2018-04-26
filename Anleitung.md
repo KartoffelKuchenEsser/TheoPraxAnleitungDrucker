@@ -624,16 +624,29 @@ Problems jedoch unwahrscheinlich.
 3. Die Temperatur ist über einen Zeiraum von über 45s abgefallen.
    Dadurch wurde der Druck abgebrochen um die Sicherheit zu gewähr leisten.
    Dabei wird auch eine Fehlermeldung ausgegeben: "Thermal Runaway".
-   Dazu finden sie weiteres unter dem Punkt Sicherheit und oder Verbesserungen.
+   Dazu finden sie weiteres unter dem Punkt Diverses.
 
-**Ungleichmäßiges Extruden**
-**Under Extrusion**
+**Under Extrusion** 
+Die Filament-Reihen sind zu dünn und es sieht so aus, als ob Löcher im Druckobjekt sind.
+
+1. Der Filamentdurchmesser ist zu klein.
+Dies kan nur passieren wenn sie eine Düse im Bereich von über 1mm Durchmesser und dabei einen Filament Durchmesser von
+1,75mm bei behalten wird. Alternativ kann man das Filament zu einem Durchmesser von 3,85mm wechseln.
+Oder man wechselt zu einer anderen Düse, eine 0,4mm Düse wäre zu empfehlen.
+Auch die 0,4mm Düsen sollte man alle 20.000 Druckstunden austauschen.
+
+2. Die Flow-Rate ist zu niedrig. 
+Gehe sie in die Cura Print Einstellungen und stellen sie den Wert solange höher bis sie ihn angepasst haben.
+
 **Over Extrusion**
-
+Die Filament Reihen sind zu dick, und das Filament "quillt" über.
+1. Sie haben eine zu hohe Flow-Rate bei zu niedriger Druckgeschwindigkeit.
+Stellen sie die Flow-Rate runter und oder stellen sie die Druckgeschwindigkeit hoch.
 
 ### Ästhetik
 
 **Stringing**
+Die Temperatur ist 
 **"Blobs und Zits"**
 **Rillen in den Top Layern**
 **Rillen an den Seiten des Druckobjekts**
