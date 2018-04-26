@@ -706,25 +706,45 @@ Wie gesagt kann man das Infill von außen sehen. Dabei ist die Außen-Wand zu d�
 
 ### Diverses
 
+**Thermal Runaway**
+**Der Extruder hört nicht auf nach unten zu fahren**
 **Overheating**
 **Verstopfte Düse**
 **Sehr kleine Designelemente werden nicht Gedruckt**
 **Designelemente werden nicht gedruckt**
 **Drucktoleranzen**
-**Der Extruder hört nicht auf nach unten zu fahren**
+
 
 ## Mögliche Verbesserungen
 
 #### Hardware
-Löten
-Bowden
-Verstärkungen
+Mann kann die Kabel des Extruders und des Heatbeds an das Mainboard löten.
+Dabei bindet man am besten den Optokopler des (aktuellen) Leveling-Sensors ein,
+falls dieser einen Optokopler benötigt.
+Wenn sie jedoch einen Sensor benutzen der eine eckige charakteristische Spitze hat und keine metallene Hülle,
+müssen sie die Kontakte des Sensors (n und p) abzwicken und gewechselt erneut anlöten.
+Dann Tauschen sie den Z-Achsen Sensor pin mit dem des Level-Sensors aus.
+
+Man kann auche einen anderen Extruder benutzen.
+Denn Bowden-Extruder, dieser Extruder kann die Genauigkeit und Geschwindigkeit des Druckers rapide Erhöhen. 
+Jedoch wird das Wechseln des Filaments eine kleine Herausforderung werden, da man das Filament durch einen kleinen Pneumatik-Schlauch 
+bringen muss.
+Im Internet gibt es zahlreiche kompetente und deutlich fachlich versiertere Anleitungen, auch mit Video, die den Einbau 
+deutlich besser erklären können als wir.
+Soviel sei gesagt, das man dazu den Extruder kaufen muss, und vorher eine passende Halterung dafür Drucken sollte.
+Wenn sie die Halterung dafür optimiert haben, sollten sie diese zur Sicherheit vordrucken, denn wenn diese bricht, 
+was schonmal passieren kann, haben sie keine weder eine direkte Möglichkeit weiter zu drucken, noch die Möglichkeit eine neue Halterung
+zu drucken.
+
+Um die gesamte Stabilität des Druckers zu verbessern, und damit auch die Druckqualität, kann man Verstärkungen für die Verstrebungen drucken und so den Relativ instabilen Anet A8 Drucker stabilisieren.
+
 ##### Software Anpassungen
-Neustes Skynet
+Zurzeit (26.04.2018) ist das neuste, und damit meiner Meinung nach beste, SkyNet 3D-Drucker OS auf dem Drucker installiert, persönlich würde ich empfehlen, nachdem sie den Offset extern gespeichert haben, das Betriebssystem alle 6 Monate upzudaten
+
 #### Software
 
 ##### SkyNet
-Standartmäßig ist auf unserem Anet A8 Drucker SkyNet als Software installiert. Falls diese Software noch einmal neu aufgesetzt werden muss, kann man sie unter der GitHub Seite https://github.com/thijsk/Skynet3d herunterladen.
+Standartmäßig ist auf unserem Anet A8 Drucker SkyNet als Software installiert. Falls diese Software noch einmal neu aufgesetzt werden muss, kann man sie unter der GitHub Seite https://github.com/thijsk/Skynet3d herunterladen. Dabei befindet sich auch eine geupdatete ANleitun zum Flashen des Betriebssystems.
 
 #### Materialien
 
