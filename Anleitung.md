@@ -608,16 +608,28 @@ Es könnte sein, dass die Düse verstopft ist, oder die Drucktemperatur zu niedr
 Oder der Z-Offset ist zu niedrig eingestellt.
 
 1. Nehmen sie eine sehr feine Nadel (kleiner als 0,4mm) und lösen sie die Verstopfung.
-2. Stellen sie in CUra die Drucktempereatur um 5°C höher, solange bis das Filament genügent fließt.
+2. Stellen sie in CUra die Drucktempereatur um 5°C höher, solange bis das Filament genügend fließt.
 3. Die Wahrschnlichste Lösung. Stellen sie mit der vorher erklärten Methode  
-(Einstellen des Druckers) den Z-Offste niedriger.
+(Einstellen des Druckers) den Z-Offste niedriger, sodass der Abstand zwischen Düse und Heatbed größer wird.
 
 **Beendigung des Extrudens während des Druckers**
+Es könnte sein, dass die Düse verstopft ist. Dies kann verschiedene Gründe haben.
+
+1. Die Temperatur ist an sich zu niedrig eingestellt.
+Als Lösung gehen sie in die Cura Print-Einstellungen und stellen sie die Temperatur um 5°C schrittweise nach oben,  
+bis das Problem gelöst ist und das Filament dauerhaft und gleichmäßig fließt. Dieses Problem ist bei der Art des  
+Problems jedoch unwahrscheinlich.
+2. Die Temperatur ist kurzzeitig abgefallen.
+   Dadurch ist das Filament in der Düse ausgehärtet und blockiert das Drucken.
+3. Die Temperatur ist über einen Zeiraum von über 45s abgefallen.
+   Dadurch wurde der Druck abgebrochen um die Sicherheit zu gewähr leisten.
+   Dabei wird auch eine Fehlermeldung ausgegeben: "Thermal Runaway".
+   Dazu finden sie weiteres unter dem Punkt Sicherheit und oder Verbesserungen.
+
 **Ungleichmäßiges Extruden**
 **Under Extrusion**
 **Over Extrusion**
-![Over-Etruding](https://www.simplify3d.com
-/wp-content/uploads/2015/09/Over-Extruding.jpg)
+
 
 ### Ästhetik
 
