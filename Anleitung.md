@@ -646,7 +646,17 @@ Stellen sie die Flow-Rate runter und oder stellen sie die Druckgeschwindigkeit h
 ### Ästhetik
 
 **Stringing**
-Die Temperatur ist 
+Das Druckobjekt zeigt unansehnliche feine Fäden auf. Dabei wird das zu flüssige Filament beim Traveln über das Objekt verteilt.
+
+1. Die Temperatur ist zu Hoch eingestellt.
+Je nach Filament gibt es eine andere geeignete Drucktemperatur.
+Stellen sie die Temperatur um 5°C Schritte runter bis das stringing aufhört. 
+
+2. Die Temperatur ist zu Hoch eingestellt.
+Nehmen sie einen Heisluftfön und schwenken sie ihn kurz über das Druckobjekt.
+Dabei müssen sie sorgfältig arbeiten, sodass sie das Objekt nicht schmelzen.
+Dabei "verbrennen" die kleinen Strings.
+
 **"Blobs und Zits"**
 **Rillen in den Top Layern**
 **Rillen an den Seiten des Druckobjekts**
