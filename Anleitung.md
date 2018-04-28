@@ -775,8 +775,18 @@ Wie gesagt kann man das Infill von außen sehen. Dabei ist die Außen-Wand zu d�
 ### Diverses
 
 **Thermal Runaway**
-**Der Extruder hört nicht auf nach unten zu fahren**
 
+
+**Der Extruder hört nicht auf nach unten zu fahren**
+Wenn der Extruder nach unten fährt, und auf das Druckbett fährt und gleichzeitig das Druckbett verbiegt,
+dann solltensie schnell das Gerät vom Strom trennen (ausschalten).
+
+Dann ist der Leveling-Sensor kaputt oder das Sensor-Kabel hat sich durch mechanischen Einfluss gelöst.
+Wenn sie den Drucker umstellen oder andere mechanische Dinge daran ändern, kontrollieren sie vor in Betrieb nahme, 
+dass alle Sensor und Motorkabel korrekt angeschlossen sind.
+
+Wenn dies nicht der Fall ist, ist vermutlich der Sensor oder das Mainboard kaputt. 
+Tauschen sie eins oder beides davon aus.
 
 **Overheating**
 Wenn der obere Teil, der der ganze Teil des Druckobjekts verzogen ist, dann
