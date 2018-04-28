@@ -708,8 +708,28 @@ Stellen sie die Kühlung an oder stellen sie sie hoch.
 Rechnen sie die Schichtdicke und die Top thickness so dass die oberste Schicht mindestens 8 Layer dick ist.
 
 **"Vibration and Ringing"**
+Es bilden sich regelmäßige Muster in der Wand des Druckobjekts.
+
+1. Sie drucken zu schnell durch das spezifiesche Druckmuster bilden sich die diese regelmäßigen Unregelmäßigkeiten.
+Stellen sie in Cura die Druckgeschwindigkeit runter.
+
 **"Warping"**
+Die Ecken des Druckobjekts wölben sich nach oben.
+
+1. Das Heatbed ist garnicht oder zu gering beheizt.
+Stellen sie die Heatbed Temperatur hoch.
+
 **"Z Wobbles"**
+Dabei hat das Druckobjekt auf der Z-Achse regelmäßige Verschiebungen, sie haben Ähnlichkeit mit kleinen Wellen.
+
+1. Das Druckobjekt wackelt, da es zu hoch wird und ein zugeringes Infill hat und es dadurch instabil wird.
+Stellen sie die Infill-Zahl in Cura hoch.
+
+2. Das Heatbed wackelt zu sehr beim Druck. 
+Wechseln sie zu einer leichteren Heatbedhalterung.
+
+3. Das Heatbed reagiert zu verzögert.
+Spannen sie den Y-Achsen-Riemen nach.
 
 ### Support
 
