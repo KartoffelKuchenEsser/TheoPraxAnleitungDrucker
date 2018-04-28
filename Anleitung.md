@@ -782,7 +782,11 @@ Das passiert dann wen der Thermistor(Wärmesensor) aus dem Düsen-Block gefallen
 unter 20°C-22°C gefallen ist, dabei hat das Netzteil nicht genug Leistung um das Heatbed und oder den Extruder 
 aufzuheizen. Dann wird das Drucken aus Sicherheitsgründen abgebrochen.
 
-Heizen sie zur Lösung den Raum auf, oder drpcken sie den Thermistor wieder hinein
+Heizen sie zur Lösung den Raum auf, oder drpcken sie den Thermistor wieder hinein.
+Trotz Thermal Runawy kann es sein das der Heatbedkabelstecker am Plus oder Minuspol durchschmort.
+Tauschen sie bei Bedarf das Kabel und prüfen sie das Heatbed per Durchgangsprüfer auf Funktionstüchtigkeit.
+Bei einer Neuvekabelung des Kabels gibt es die Empfehlung das Kabel per Mosfet anzuschließen und oder die anderen Litzen zu nutzen, 
+und die anderen ungenutzten Kontakte des Heatbeds anschließe um so die Ampere-Belastung niedrig zu halten. 
 
 **Der Extruder hört nicht auf nach unten zu fahren**
 Wenn der Extruder nach unten fährt, und auf das Druckbett fährt und gleichzeitig das Druckbett verbiegt,
