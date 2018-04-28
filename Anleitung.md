@@ -666,11 +666,31 @@ gleichzeitig eine punktuelle Over-Extrusion.
 Können wir ihnen die Lösung zu diesem Problem nicht geben.
 
 **Rillen in den Top Layern**
-**Rillen an den Seiten des Druckobjekts**
+Das Problem beschreibt sich selbst durch den Namen: In der obersten Schichten befinde ishc regelmäßige Rillen.
+
+1. Die allgemeine Layerheight ist zu niedrig, dadurch drückt die Düse auf das vorher gedruckte Filament.
+Erhöhen sie die Layerheight in Cura.
+
+2. Die Top/Bottom thickness ist zu niedrig, dadurch drückt die Düse auf das vorher gedruckte Filament.
+Erhöhen sie die Top/Bottom thickness.
+
 **Unterer Teil des Objekts ist eingedrückt**
-**Fehlerhafte Ecken**
+Der untere Teil eines Druckobjekts ist eingedrückt(eingebrochen).
+
+1. Die Heatbed Temperatur ist zu hoch eingestellt.
+Stellen sie die Heatbed Temperatur in Cura runter.
+
 **Unschöne Überhänge**
+Überhänge sind nicht gedruckt oder sehen unsauber aus.
+
+1. Es werden keine Support Verstrebungen gedruckt.
+Stellen sie in Cura den Support ein und nehmen sie die Einstellung "Everywhere"
+
 **Schlechtes Bridging**
+Verbindungen ohne Support zu einer anderen Säule ist durchhängend und nicht sauber gedruckt.
+
+1. Der Printspeed ist zu schnell, dadurch wird das Bridging unsauber.
+
 **Elephantenfuß**
 **"Pillowing"**
 **"Vibration and Ringing"**
