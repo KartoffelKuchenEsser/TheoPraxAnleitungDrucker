@@ -734,11 +734,18 @@ Spannen sie den Y-Achsen-Riemen nach.
 ### Support
 
 **Support Materialprobleme**
+
+
 **Schlechte Oberflächenqualität bei Supportflächen**
+Bei der ehemaligen Kontaktfläche von Support und Oberfläche sind unschöne Unebenheiten zu sehen.
+Wenn sie ABS benutzt haben , können sie das gesamte Objekt mit Aceton bedampfen und die Layerübergänge so glätten, 
+dabei glättet man auch gleichzeitig die Unebenheiten die durch das Supportmaterial hervorgerufen wurde.
+Alternativ können sie die Unebenheiten mit einem scharfen Skalpell abschaben.
 
 ### Layer
 
 **Verschiebung von Layern in eine Achsenrichtung**
+Wenn sie z.B.
 **Trennung von verschiedenen Layern**
 **Keine Haftung des ersten Layers/ des Druckobjekts**
 
