@@ -690,9 +690,23 @@ Stellen sie in Cura den Support ein und nehmen sie die Einstellung "Everywhere"
 Verbindungen ohne Support zu einer anderen Säule ist durchhängend und nicht sauber gedruckt.
 
 1. Der Printspeed ist zu schnell, dadurch wird das Bridging unsauber.
+Stellen sie den Printspeed in Cura um 20mm runter.
 
 **Elephantenfuß**
+Die unteren Schichten des Objekts wölben sich nach außen, weil das Gewicht die unteren Schichten zusammendrückt.
+
+1. Die Heatbed Temperatur ist zu hoch.
+Stellen sie die Heatbed Temperatur runter.
+
 **"Pillowing"**
+Über den Punkten bei denen siche kein Infill darunter befindet, senkt sich die Obefläch deutlich ab.
+
+1. Die Kühlung ist zu niedrig oder es wurde gar nicht gekühlt.
+Stellen sie die Kühlung an oder stellen sie sie hoch.
+
+2. Die Oberfläche ist zu dick.
+Rechnen sie die Schichtdicke und die Top thickness so dass die oberste Schicht mindestens 8 Layer dick ist.
+
 **"Vibration and Ringing"**
 **"Warping"**
 **"Z Wobbles"**
