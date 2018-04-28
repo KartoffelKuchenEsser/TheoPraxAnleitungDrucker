@@ -64,13 +64,11 @@
 * "Vibration and Ringing"
 * "Warping"
 * "Z Wobbles"
-* Support
 * Support Materialprobleme
 * Schlechte Oberflächenqualität bei Supportflächen
 * Layer
 * Verschiebung von Layern in eine Achsenrichtung
 * Trennung von verschiedenen Layern
-* Keine Haftung des ersten Layers/ des Druckobjekts
 * Infill
 * Schwaches / Fehlerhaftes Infill
 * Infill ist von außen zu sehen
@@ -731,11 +729,6 @@ Wechseln sie zu einer leichteren Heatbedhalterung.
 3. Das Heatbed reagiert zu verzögert.
 Spannen sie den Y-Achsen-Riemen nach.
 
-### Support
-
-**Support Materialprobleme**
-
-
 **Schlechte Oberflächenqualität bei Supportflächen**
 Bei der ehemaligen Kontaktfläche von Support und Oberfläche sind unschöne Unebenheiten zu sehen.
 Wenn sie ABS benutzt haben , können sie das gesamte Objekt mit Aceton bedampfen und die Layerübergänge so glätten, 
@@ -745,9 +738,23 @@ Alternativ können sie die Unebenheiten mit einem scharfen Skalpell abschaben.
 ### Layer
 
 **Verschiebung von Layern in eine Achsenrichtung**
-Wenn sie z.B.
+Wenn sie z.B. einen Würfel drucken und der obere Teil nicht auf dem unteren Teil sitzt, sondern daneben. 
+Haben sie folgende Probleme: 
+
+1. Die Riemen sind nicht richtig gespannt.
+Spannen sie die Riemen nach.
+
+2. Das Heatbed ist nicht richtig befestigt.
+Befestigen sie die Platte wieder an dem Riemen und oder am Heatbed selber.
+
+3. Bei nich gerader Achsenverschiebung kann es bei anderen Druckern sein, dass eine Z-Achse nicht ganz gerade ist.
+Dieses Problem sollte nicht beim Anet A8 auftreten, andernfalls achten sie auf die parallelität.
+
 **Trennung von verschiedenen Layern**
-**Keine Haftung des ersten Layers/ des Druckobjekts**
+Das Druckobjekt hat größere Risse.
+
+1. Die verschiedenen Layer kühlen unterschiedlich stark aus.
+Erhöhen sie die Extruder Temperatur und oder die Heatbed Temperatur.
 
 ### Infill
 
@@ -769,11 +776,33 @@ Wie gesagt kann man das Infill von außen sehen. Dabei ist die Außen-Wand zu d�
 
 **Thermal Runaway**
 **Der Extruder hört nicht auf nach unten zu fahren**
+
+
 **Overheating**
+Wenn der obere Teil, der der ganze Teil des Druckobjekts verzogen ist, dann
+ist das Druckobjekt zu heiß. Es kann nixht abkühlen und wird immer weiter erhitzt, 
+bis das Objekt nur noch undefinierte Dinge druckt die komplett verzogen sind.
+
 **Verstopfte Düse**
+Wenn das Filament überhalb der Düse herausquillt, dann ist vermutlich die Düse verstopft.
+Nehmen sie eine sehr dünne Nadel und erhitzen sie sie. Drücken sie sie von unten in die herausmontierte Düse 
+um die Verstopfung zu lösen.
+Wenn sie ABS nutzen können sie es mit einem Bad in Aceton versuchen.
+
 **Sehr kleine Designelemente werden nicht Gedruckt**
-**Designelemente werden nicht gedruckt**
+Dabei werden die feinen Elemente des Druckobjekts nicht gedruckt.
+Das liegt daran, dass diese Elemente von Cura ignoriert werden, 
+da sie zu klein sind und die Genauigkeit des Druckers unterschreiten würden.
+
+Wenn sie diese Element unbedingt haben wollen, skalieren sie das Objekt hoch,
+sodass die Elemente gedruckt werden.
+
 **Drucktoleranzen**
+Die Drucktoleranz des Druckers hängt davon ab wie gut die Schienen geölt und die Kugellager freigängig sind
+und wie gut die Riemen gespannt sind.
+
+Dabei hat auch das Gewicht des gesamten Extruders Einfluss auf die Druckgeschwindigkeit und die Toleranz,
+je leichter der Extruder, wird desto schneller und genauer kann man im Endeffekt drucken.
 
 
 ## Mögliche Verbesserungen
