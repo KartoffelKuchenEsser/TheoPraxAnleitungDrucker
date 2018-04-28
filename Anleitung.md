@@ -775,7 +775,14 @@ Wie gesagt kann man das Infill von außen sehen. Dabei ist die Außen-Wand zu d�
 ### Diverses
 
 **Thermal Runaway**
+Nach längerem Druck oder Aufheizen, kommt die Fehlermeldung "Thermal Runaway", dabei wird das Aufheizen 
+abgebrochen um das Gerät vor einem fehlerhaften Aufheizenit folgendem Kabelbrand zu schützen, hierbei trifft 
+der Satz zu: "Das ist kein Bug, sondern ein Feature!"
+Das passiert dann wen der Thermistor(Wärmesensor) aus dem Düsen-Block gefallen ist, oder die Umgebungstemperatur
+unter 20°C-22°C gefallen ist, dabei hat das Netzteil nicht genug Leistung um das Heatbed und oder den Extruder 
+aufzuheizen. Dann wird das Drucken aus Sicherheitsgründen abgebrochen.
 
+Heizen sie zur Lösung den Raum auf, oder drpcken sie den Thermistor wieder hinein
 
 **Der Extruder hört nicht auf nach unten zu fahren**
 Wenn der Extruder nach unten fährt, und auf das Druckbett fährt und gleichzeitig das Druckbett verbiegt,
