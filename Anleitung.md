@@ -861,7 +861,7 @@ Standartmäßig ist auf unserem Anet A8 Drucker SkyNet als Software installiert.
 
 | Name | PLA | ABS | PVA |
 | :--- | :--- | :--- | :--- |
-| **Vollständiger Name** | Polylactide | Acrylnitril-Butadien-Styrol- Copolymere | Polyvinylacetat |
+| **Vollständiger Name** | Polylactide | Acrylnitril-Butadien-Styrol- Copolymere | Polyvinylalkohol |
 | **Preis \(in €/kg\)** | 20 | 20-40 | ca. 100 |
 | **Gefahrenbezeichung \(Kennbezeichnung\)** | keine | Reizend \(Xi\) | keine |
 | **Eigenschaften** | biologisch abbaubar | hohe Belastbarkeit | wasserlöslich \(Druck von Stützmaterialien\) |
