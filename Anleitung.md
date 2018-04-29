@@ -855,7 +855,7 @@ Zurzeit (26.04.2018) ist das neuste, und damit meiner Meinung nach beste, SkyNet
 #### Software
 
 ##### SkyNet
-Standartmäßig ist auf unserem Anet A8 Drucker SkyNet als Software installiert. Falls diese Software noch einmal neu aufgesetzt werden muss, kann man sie unter der GitHub Seite https://github.com/thijsk/Skynet3d herunterladen. Dabei befindet sich auch eine geupdatete ANleitun zum Flashen des Betriebssystems.
+Standartmäßig ist auf unserem Anet A8 Drucker SkyNet als Software installiert. Falls diese Software noch einmal neu aufgesetzt werden muss, kann man sie unter der GitHub Seite https://github.com/thijsk/Skynet3d herunterladen. Dabei befindet sich auch eine geupdatete Anleitung zum Flashen des Betriebssystems.
 
 #### Materialien
 
