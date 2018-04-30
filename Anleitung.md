@@ -776,7 +776,7 @@ Wie gesagt kann man das Infill von außen sehen. Dabei ist die Außen-Wand zu d�
 
 **Thermal Runaway**
 Nach längerem Druck oder Aufheizen, kommt die Fehlermeldung "Thermal Runaway", dabei wird das Aufheizen 
-abgebrochen um das Gerät vor einem fehlerhaften Aufheizenit folgendem Kabelbrand zu schützen, hierbei trifft 
+abgebrochen um das Gerät vor einem fehlerhaften Aufheizen und folgendem Kabelbrand zu schützen, hierbei trifft 
 der Satz zu: "Das ist kein Bug, sondern ein Feature!"
 Das passiert dann wen der Thermistor(Wärmesensor) aus dem Düsen-Block gefallen ist, oder die Umgebungstemperatur
 unter 20°C-22°C gefallen ist, dabei hat das Netzteil nicht genug Leistung um das Heatbed und oder den Extruder 
@@ -786,7 +786,21 @@ Heizen sie zur Lösung den Raum auf, oder drpcken sie den Thermistor wieder hine
 Trotz Thermal Runawy kann es sein das der Heatbedkabelstecker am Plus oder Minuspol durchschmort.
 Tauschen sie bei Bedarf das Kabel und prüfen sie das Heatbed per Durchgangsprüfer auf Funktionstüchtigkeit.
 Bei einer Neuvekabelung des Kabels gibt es die Empfehlung das Kabel per Mosfet anzuschließen und oder die anderen Litzen zu nutzen, 
-und die anderen ungenutzten Kontakte des Heatbeds anschließe um so die Ampere-Belastung niedrig zu halten. 
+und die anderen ungenutzten Kontakte des Heatbeds anschließen um so die Ampere-Belastung niedrig zu halten. 
+
+**Heating Failed**
+Nach kurzem Aufheizen, bzw. dem Versuch, kommt es zum Abrruch des Vorgangs und zur Ausgabe der Fehlermeldung "Heating Failed".
+Dabei wird vom OS erkannt, dass das Aufheizen eines Teils, Bed oder Extruder, nicht funktioniert hat.
+
+1. Der Sensor ist rausgefallen, und misst deshalb falsche Messwerte.
+Um das Problem zu beheben, müssen sie den Sensor, das ist eine ganz kleine "Glasperle", wieder in das untere kleine Loch schieben.
+Im gleichen Zug können sie dann die Heizpatrone fixieren. Dafür müssen sie auf der Unterseite 
+des Heizblocks eine kleine Schraube festziehen.
+
+2. Wenn der Punkt eins nicht zutrifft sollten sie beim Aufheizen die Temperatur des Heatbeds beobachten, und, bei zu langsamer Erwärmung,
+Die Stromkabel zur Wärmeversorgung aufsplitten und sie an den jeweiligen Kontakten (minus und minus, plus und plus) festlöten.
+Da es wie bei "Thermal Runaway" dazu gekommen sein kann, dass der Heatbed-Stecker durchgeschmort ist, und dadurch die Leistung des Beds
+stark herabsetzt. Durch das anlöten konnte ich persöhnlich eine, eventuell subjektive, schnellere Aufheizung beobachten.
 
 **Der Extruder hört nicht auf nach unten zu fahren**
 Wenn der Extruder nach unten fährt, und auf das Druckbett fährt und gleichzeitig das Druckbett verbiegt,
