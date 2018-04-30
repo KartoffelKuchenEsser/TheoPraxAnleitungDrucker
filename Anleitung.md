@@ -80,6 +80,7 @@
 * Mögliche Verbesserungen
    * Hardware
       * Software Anpassungen
+	 * Verbesserung von Druckobjekten
 * Software
    * Skynet
 * Materialien
@@ -557,8 +558,8 @@ Dann nehmen sie eine Zange und halten das ausmontierte Hotend fest, erhitzen sie
 mit einem Feuerzeug für ungefähr 15s und schieben sie dann die Nadel hinein. Dabei sollte sich die Verstopfung lösen und in einer stark
 flüssigen Konsistenz aus der Düse ergießen.
 
-<b>Achtung! Warnhinweis, folgender Textabschnitt dient nur zu Informationszwecken. 
-Wir übernehmen keine Haftung für Sach- und oder Personenschäden!</b>
+<b>Achtung, Warnhinweis! folgender Textabschnitt dient nur zu Informationszwecken. 
+Wir übernehmen keine Haftung für Sach- oder Personenschäden!</b>
 
 Wenns sich diese Versopfung weiterhin nicht gelöst hat, oder die Düsen-Innenwände eine 
 Ablagerung aus Filament sich zu Eigen gemacht haben. Haben sie entweder Glück, wenn sie ABS benutzt haben, dann können sie die Düse vom
@@ -887,7 +888,19 @@ zu drucken.
 Um die gesamte Stabilität des Druckers zu verbessern, und damit auch die Druckqualität, kann man Verstärkungen für die Verstrebungen drucken und so den Relativ instabilen Anet A8 Drucker stabilisieren.
 
 ##### Software Anpassungen
-Zurzeit (26.04.2018) ist das neuste, und damit meiner Meinung nach beste, SkyNet 3D-Drucker OS auf dem Drucker installiert, persönlich würde ich empfehlen, nachdem sie den Offset extern gespeichert haben, das Betriebssystem alle 6 Monate upzudaten
+Zurzeit (26.04.2018) ist das neuste, und damit meiner Meinung nach beste, SkyNet 3D-Drucker OS auf dem Drucker installiert, persönlich würde ich empfehlen, nachdem sie den Offset extern gespeichert haben, das Betriebssystem alle 6 Monate upzudaten.
+
+#### Verbesserung von Druckobjekten
+
+Man kann verschieden Kunststoffe mit verschieden Chemikalien verschönen.
+
+<b>Achtung, Warnhinweis! folgender Textabschnitt dient nur zu Informationszwecken. 
+Wir übernehmen keine Haftung für Sach- oder Personenschäden!</b>
+
+ABS-Objekte können mit Aceton bedampft werden.
+Dabei gehen die Übergänge zwischen den Layern verloren, was eine Spritzguss-Optik erzeugt.
+
+PLA-Objekte können mit Methylchlorid bedampft/poliert werden, der Effekt ist der gleiche wie bei Aceton.
 
 #### Software
 
