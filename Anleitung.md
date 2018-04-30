@@ -122,19 +122,19 @@ Das Druckvolumen beträgt 220mm\*220mm\*240mm.
 Gedruckt wird mit PLA. PLA ist ein Bio-Polymer mit verschiedenen Eigenschaften:
 
 * Biologischabbaubar
-1. Stark korodiert \(nach 50 Jahren bei hoher Sonneneinstrahlung\)
+  1. Stark korodiert \(nach 50 Jahren bei hoher Sonneneinstrahlung\)
 * Poly-Lactid
-1. Herstellung aus Maisstärke
-2. Kein Verbrauch von Erdöl
-3. Lebensmittelecht
+  1. Herstellung aus Maisstärke
+  2. Kein Verbrauch von Erdöl
+  3. Lebensmittelecht
 * Drucktemperatur von 200 °C
-1. Energiesparender als andere Filamente
+  1. Energiesparender als andere Filamente
 * Kein Warping \(Verziehen\)
-1. Anfängerfreundlich
-2. Weniger Fehldrucke
+  1. Anfängerfreundlich
+  2. Weniger Fehldrucke
 * Günstig
-1. 20€ pro Spule
-2. 2000m bei ca. 1kg
+  1. 20€ pro Spule
+  2. 2000m bei ca. 1kg
 
 ### Wort Definitionen / Drucklexikon
 
