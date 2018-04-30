@@ -36,42 +36,38 @@
    * Nozzle
 * Druckprobleme und ihre Behebung
    * Filament
-   * Filament wechseln
-   * Beschädigung des Filaments \(Plastikflocken/Splitter sind zu sehen\)
+    * Filament wechseln
+    * Beschädigung des Filaments \(Plastikflocken/Splitter sind zu sehen\)
    * Lücken
-   * Lücken und Löcher in den Top Layern
-   * Lücken und Löcher in den Ecken am Boden
-   * Lücken in den Bottom Layer
-   * Lücken zwischen dem Infill und den Outlines
-   * Lücken bei Dünnen Wänden \(z.B. Bei Schriftzügen\)
+    * Lücken und Löcher in den Top Layern
+    * Lücken und Löcher in den Ecken am Boden
+    * Lücken in den Bottom Layer
+    * Lücken zwischen dem Infill und den Outlines
+    * Lücken bei Dünnen Wänden \(z.B. Bei Schriftzügen\)
    * Keine / zu geringe Extrusion
-   * Keine Ausgabe des Filaments am Anfang des Druckers
-   * Beendigung des Extrudens während des Druckers
-   * Ungleichmäßiges Extruden
-   * Under Extrusion
-   * Over Extrusion
+    * Keine Ausgabe des Filaments am Anfang des Druckens
+    * Beendigung des Extrudens während des Druckens
+    * Under Extrusion
+    * Over Extrusion
    * Ästhetik
-   * Stringing
-   * "Blobs und Zits"
-   * Rillen in den Top Layern
-   * Rillen an den Seiten des Druckobjekts
-   * Unterer Teil des Objekts ist eingedrückt
-   * Fehlerhafte Ecken
-   * Unschöne Überhänge
-   * Schlechtes Bridging
-   * Elephantenfuß
-   * "Pillowing"
-   * "Vibration and Ringing"
-   * "Warping"
-   * "Z Wobbles"
-   * Support Materialprobleme
-   * Schlechte Oberflächenqualität bei Supportflächen
+    * Stringing
+    * "Blobs und Zits"
+    * Rillen in den Top Layern
+    * Unterer Teil des Objekts ist eingedrückt
+    * Unschöne Überhänge
+    * Schlechtes Bridging
+    * Elephantenfuß
+    * Pillowing
+    * Vibration and Ringing
+    * Warping
+    * Z Wobbles
+    * Schlechte Oberflächenqualität bei Supportflächen
    * Layer
-   * Verschiebung von Layern in eine Achsenrichtung
-   * Trennung von verschiedenen Layern
+    * Verschiebung von Layern in eine Achsenrichtung
+    * Trennung von verschiedenen Layern
    * Infill
-   * Schwaches / Fehlerhaftes Infill
-   * Infill ist von außen zu sehen
+    * Schwaches / Fehlerhaftes Infill
+    * Infill ist von außen zu sehen
 * Diverses
    * Thermal Runaway
    * Heating Failed
