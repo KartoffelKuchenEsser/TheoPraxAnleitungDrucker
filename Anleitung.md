@@ -5,84 +5,88 @@
 * Vorwort
 * Druckerdaten
 * Wort Definitionen / Drucklexikon
-* Extruder
-* Filament
-* Gcode
-* Induktiver Druck-Sensor/Sensor
-* Infill
-* Layer
-* Nozzle
-* Skirt
-* Slicer
+   * Extruder
+   * Filament
+   * Gcode
+   * Induktiver Druck-Sensor/Sensor
+   * Infill
+   * Layer
+   * Nozzle
+   * Skirt
+   * Slicer
 * Software und ihre Einstellung
-* Software
-* Einrichtung
+   * Software
+   * Einrichtung
 * Druckeinstellungen
-* Hardware Einstellungen
-* Achsenvorbereitung
-* Leveling
+   * Hardware Einstellungen
+   * Achsenvorbereitung
+   * Leveling
 * Drucken
-* Richtige Reihenfolge
-* Qualitätssicherung
+   * Richtige Reihenfolge
+   * Qualitätssicherung
 * Pflege
-* Aufhängung
-* Achsen
-* Extruderschrauben
-* Ausrichtung
-* Heatbed
-* Höhe
-* Leveling
-* Nachspannen
-* Nozzle
+   * Aufhängung
+   * Achsen
+   * Extruderschrauben
+   * Ausrichtung
+   * Heatbed
+   * Höhe
+   * Leveling
+   * Nachspannen
+   * Nozzle
 * Druckprobleme und ihre Behebung
-* Filament
-* Filament wechseln
-* Beschädigung des Filaments \(Plastikflocken/Splitter sind zu sehen\)
-* Lücken
-* Lücken und Löcher in den Top Layern
-* Lücken und Löcher in den Ecken am Boden
-* Lücken in den Bottom Layer
-* Lücken zwischen dem Infill und den Outlines
-* Lücken bei Dünnen Wänden \(z.B. Bei Schriftzügen\)
-* Keine / zu geringe Extrusion
-* Keine Ausgabe des Filaments am Anfang des Druckers
-* Beendigung des Extrudens während des Druckers
-* Ungleichmäßiges Extruden
-* Under Extrusion
-* Over Extrusion
-* Ästhetik
-* Stringing
-* "Blobs und Zits"
-* Rillen in den Top Layern
-* Rillen an den Seiten des Druckobjekts
-* Unterer Teil des Objekts ist eingedrückt
-* Fehlerhafte Ecken
-* Unschöne Überhänge
-* Schlechtes Bridging
-* Elephantenfuß
-* "Pillowing"
-* "Vibration and Ringing"
-* "Warping"
-* "Z Wobbles"
-* Support Materialprobleme
-* Schlechte Oberflächenqualität bei Supportflächen
-* Layer
-* Verschiebung von Layern in eine Achsenrichtung
-* Trennung von verschiedenen Layern
-* Infill
-* Schwaches / Fehlerhaftes Infill
-* Infill ist von außen zu sehen
+   * Filament
+   * Filament wechseln
+   * Beschädigung des Filaments \(Plastikflocken/Splitter sind zu sehen\)
+   * Lücken
+   * Lücken und Löcher in den Top Layern
+   * Lücken und Löcher in den Ecken am Boden
+   * Lücken in den Bottom Layer
+   * Lücken zwischen dem Infill und den Outlines
+   * Lücken bei Dünnen Wänden \(z.B. Bei Schriftzügen\)
+   * Keine / zu geringe Extrusion
+   * Keine Ausgabe des Filaments am Anfang des Druckers
+   * Beendigung des Extrudens während des Druckers
+   * Ungleichmäßiges Extruden
+   * Under Extrusion
+   * Over Extrusion
+   * Ästhetik
+   * Stringing
+   * "Blobs und Zits"
+   * Rillen in den Top Layern
+   * Rillen an den Seiten des Druckobjekts
+   * Unterer Teil des Objekts ist eingedrückt
+   * Fehlerhafte Ecken
+   * Unschöne Überhänge
+   * Schlechtes Bridging
+   * Elephantenfuß
+   * "Pillowing"
+   * "Vibration and Ringing"
+   * "Warping"
+   * "Z Wobbles"
+   * Support Materialprobleme
+   * Schlechte Oberflächenqualität bei Supportflächen
+   * Layer
+   * Verschiebung von Layern in eine Achsenrichtung
+   * Trennung von verschiedenen Layern
+   * Infill
+   * Schwaches / Fehlerhaftes Infill
+   * Infill ist von außen zu sehen
 * Diverses
-* Overheating
-* Verstopfte Düse
-* Sehr kleine Designelemente werden nicht Gedruckt
-* Designelemente werden nicht gedruckt
-* Drucktoleranzen
-* Der Extruder hört nicht auf nach unten zu fahren
+   * Thermal Runaway
+   * Heating Failed
+   * Overheating
+   * Verstopfte Düse
+   * Sehr kleine Designelemente werden nicht Gedruckt
+   * Designelemente werden nicht gedruckt
+   * Drucktoleranzen
+   * Der Extruder hört nicht auf nach unten zu fahren
 * Mögliche Verbesserungen
-* Hardware
-* Software Anpassungen
+   * Hardware
+      * Software Anpassungen
 * Software
+   * Skynet
+* Materialien
 
 ---
 
