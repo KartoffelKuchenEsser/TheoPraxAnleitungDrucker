@@ -36,38 +36,38 @@
    * Nozzle
 * Druckprobleme und ihre Behebung
    * Filament
-    * Filament wechseln
-    * Beschädigung des Filaments \(Plastikflocken/Splitter sind zu sehen\)
+      * Filament wechseln
+      * Beschädigung des Filaments \(Plastikflocken/Splitter sind zu sehen\)
    * Lücken
-    * Lücken und Löcher in den Top Layern
-    * Lücken und Löcher in den Ecken am Boden
-    * Lücken in den Bottom Layer
-    * Lücken zwischen dem Infill und den Outlines
-    * Lücken bei Dünnen Wänden \(z.B. Bei Schriftzügen\)
+      * Lücken und Löcher in den Top Layern
+      * Lücken und Löcher in den Ecken am Boden
+      * Lücken in den Bottom Layer
+      * Lücken zwischen dem Infill und den Outlines
+      * Lücken bei Dünnen Wänden \(z.B. Bei Schriftzügen\)
    * Keine / zu geringe Extrusion
-    * Keine Ausgabe des Filaments am Anfang des Druckens
-    * Beendigung des Extrudens während des Druckens
-    * Under Extrusion
-    * Over Extrusion
+      * Keine Ausgabe des Filaments am Anfang des Druckens
+      * Beendigung des Extrudens während des Druckens
+      * Under Extrusion
+      * Over Extrusion
    * Ästhetik
-    * Stringing
-    * "Blobs und Zits"
-    * Rillen in den Top Layern
-    * Unterer Teil des Objekts ist eingedrückt
-    * Unschöne Überhänge
-    * Schlechtes Bridging
-    * Elephantenfuß
-    * Pillowing
-    * Vibration and Ringing
-    * Warping
-    * Z Wobbles
-    * Schlechte Oberflächenqualität bei Supportflächen
+      * Stringing
+      * "Blobs und Zits"
+      * Rillen in den Top Layern
+      * Unterer Teil des Objekts ist eingedrückt
+      * Unschöne Überhänge
+      * Schlechtes Bridging
+      * Elephantenfuß
+      * Pillowing
+      * Vibration and Ringing
+      * Warping
+      * Z Wobbles
+      * Schlechte Oberflächenqualität bei Supportflächen
    * Layer
-    * Verschiebung von Layern in eine Achsenrichtung
-    * Trennung von verschiedenen Layern
+      * Verschiebung von Layern in eine Achsenrichtung
+      * Trennung von verschiedenen Layern
    * Infill
-    * Schwaches / Fehlerhaftes Infill
-    * Infill ist von außen zu sehen
+      * Schwaches / Fehlerhaftes Infill
+      * Infill ist von außen zu sehen
 * Diverses
    * Thermal Runaway
    * Heating Failed
@@ -696,7 +696,7 @@ Die unteren Schichten des Objekts wölben sich nach außen, weil das Gewicht die
 1. Die Heatbed Temperatur ist zu hoch.
 Stellen sie die Heatbed Temperatur runter.
 
-**"Pillowing"**
+**Pillowing**
 Über den Punkten bei denen siche kein Infill darunter befindet, senkt sich die Obefläch deutlich ab.
 
 1. Die Kühlung ist zu niedrig oder es wurde gar nicht gekühlt.
@@ -705,19 +705,19 @@ Stellen sie die Kühlung an oder stellen sie sie hoch.
 2. Die Oberfläche ist zu dick.
 Rechnen sie die Schichtdicke und die Top thickness so dass die oberste Schicht mindestens 8 Layer dick ist.
 
-**"Vibration and Ringing"**
+**Vibration and Ringing**
 Es bilden sich regelmäßige Muster in der Wand des Druckobjekts.
 
 1. Sie drucken zu schnell durch das spezifiesche Druckmuster bilden sich die diese regelmäßigen Unregelmäßigkeiten.
 Stellen sie in Cura die Druckgeschwindigkeit runter.
 
-**"Warping"**
+**Warping**
 Die Ecken des Druckobjekts wölben sich nach oben.
 
 1. Das Heatbed ist garnicht oder zu gering beheizt.
 Stellen sie die Heatbed Temperatur hoch.
 
-**"Z Wobbles"**
+**Z Wobbles**
 Dabei hat das Druckobjekt auf der Z-Achse regelmäßige Verschiebungen, sie haben Ähnlichkeit mit kleinen Wellen.
 
 1. Das Druckobjekt wackelt, da es zu hoch wird und ein zugeringes Infill hat und es dadurch instabil wird.
