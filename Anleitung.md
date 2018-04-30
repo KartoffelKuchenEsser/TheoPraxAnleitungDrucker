@@ -546,10 +546,33 @@ Nehmen sie dann ein Stück Filament und schieben es hinterher.
 Ziehen sie dann das Filament in einer flüssigen Bewegung wieder heraus,
 und setzen den Extruder wieder zusammen.
 
+Wenn dies noch nichts genützt hat, 
+nehmen sie eine Kanüle, Kanülen eignen sich besonders gut, da sie sehr dünn sind bei gleichzeitiger relativ hoher Stabilität,
+sie sollte ungefähr so lang oder länger sein wie der Heizblock.
+Fühern sie die Nadel von unten ein und prüfen sie ob sich dort eine Verstopfung befindet.
+Wenn der untere Teil frei zu sein scheint. Nehmen sie eine Dickere, und vorallem stabile Nadel, 
+und fühern sie von oben in das Hotend ein.
+Wenn sich die Verstopfung nicht gelöst zu haben scheint, und das erhitzen auf 240°C, positionsbedingt, nichts bringt. 
+Dann nehmen sie eine Zange und halten das ausmontierte Hotend fest, erhitzen sie nun den Gewindeteil in dem sie die Verstopfung vermuten
+mit einem Feuerzeug für ungefähr 15s und schieben sie dann die Nadel hinein. Dabei sollte sich die Verstopfung lösen und in einer stark
+flüssigen Konsistenz aus der Düse ergießen.
+
+<b>Achtung! Warnhinweis, folgender Textabschnitt dient nur zu Informationszwecken. 
+Wir übernehmen keine Haftung für Sach- und oder Personenschäden!</b>
+
+Wenns sich diese Versopfung weiterhin nicht gelöst hat, oder die Düsen-Innenwände eine 
+Ablagerung aus Filament sich zu Eigen gemacht haben. Haben sie entweder Glück, wenn sie ABS benutzt haben, dann können sie die Düse vom
+Heizblock und dem Hotend lösen und das Hotend, einzeln (ohne Heizblock), in Aceton einlegen. 
+Danach sollten sie die Teile schnell ausspülen. 
+Aceton ist zwar giftig und leicht entzündlich, aber vergleichsweise ungefählich wenn wir uns die gleiche Lösung für PLA anschauen.
+Die PLA-Lösungsmittel, wie Aceton auch, nur unter Aufsicht einer Lehrkraft verwenden.
+Beim PLA-Lösungsmittel, Methylenchlorid, handelt sich um einen vermutlich Krebs erregenden Stoff.
+Er reizt Augen,Haut und Atemwege. Die Prozedur sollte unbedingt in einem funktionstüchtigen Abzug erfolgen.
+Führen sie die gleiche Prozedur wie mit Aceton durch.
+
 **Beschädigung des Filaments \(Plastikflocken/Splitter sind zu sehen\)**:
-Wenn dies geschehen ist, sieht es ungefähr so aus: 
-BILD
-Wie man sehen kann, haben sich Flocken gebildet, die entweder auf dem Extruder  
+Wenn dies geschieht kann man einige charakteristische Dinge sehen:
+Es haben sich Flocken gebildet, die entweder auf dem Extruder  
 oder darunter liegen und aus dem Extruder-Bereich zu fallen scheinen.
 
 Dabei ist das Problem, dass die Extruder-Düse verstopft ist und der Extruder mit seienem
