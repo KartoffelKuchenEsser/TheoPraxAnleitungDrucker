@@ -90,9 +90,9 @@
 ## Vorwort
 
 Dieser Text beinhaltet die Betriebsanleitung für den 3D-Drucker "Anet A8"
-der Begabten-AG \| Chemie Der Text behandelt besonders die verschiedenen Probleme,
+der Begabten-AG \| Chemie. Der Text behandelt besonders die verschiedenen Probleme,
 deren Grund und wie man dies Beheben kann.
-Es werden verschiedene Englische "Fachbegriffe" verwendet, diese sollten sie
+Es werden verschiedene englische "Fachbegriffe" verwendet, diese sollten sie
 aber recht schnell verinnerlicht haben.
 
 _Kursiv_ geschriebene Absätze sind Kommentare und Erklärungen sie sind **nicht**
@@ -198,7 +198,7 @@ Geben sie zunächst das Druckvolumen in mm an.
 
 Daraufhin geben sie die folgenden Punkte ein:
 
-* Bei "Build Plate Shape" muss "Rectangular" ausgewählt.
+* Bei "Build Plate Shape" muss "Rectangular" ausgewählt sein.
 * Bei "Origin at center" darf **kein** Kreuz sein.
 * Bei "Heated Bed" muss wieder ein Kreuz gesetzt werden.
 
@@ -294,7 +294,7 @@ Messen sie auf beiden Seiten, sodass die X-Achse gerade ausgerichtet ist.
 
 ### Leveling
 
-Um einen schönen Druck gewähleisten zu können muss das Heatbed gelevelt,
+Um einen schönen Druck gewähleisten zu können, muss das Heatbed gelevelt,
 also gerade, sein.
 
 **Manuell**
@@ -307,7 +307,7 @@ gedreht werden, sodass die Kontermuttern aufgeschraubt werden können,
 zu niedrig eingestellt kann es zu Beschädigungen der Platte kommen,
 falls der Sensor nicht funktionsfähig ist._
 
-Wiederholen sie diesen Vorgang, in diagonaler Reihenfolge,
+Wiederholen sie diesen Vorgang in diagonaler Reihenfolge,
 so lange bis die Werte möglichst nahe beieinander liegen.
 Drehen sie nun die Kontermuttern wieder drauf und drehen sie sie fest.
 
@@ -366,7 +366,7 @@ Drücken sie auf "Preheat PLA"
 > Prepare&gt;&gt;Preheat&gt;&gt;Preheat PLA&gt;&gt;Preheat PlA
 
 Damit heizen sie Bed und Extruder gleichzeitig hoch, wenn sie nur drucken würden
-ohne zu Preheaten dauert es länger, da der Drucker erst Bed
+ohne zu Preheaten, dauert es länger, da der Drucker erst Bed
 und dann Extruder hochheizt.
 
 Drücken sie jetzt den linken Knopf so oft, bis sie wieder im Statusmenü sind.
@@ -375,7 +375,7 @@ Drücken sie dann auf den Namen ihrer Druckdatei.
 > Print from SD-Card&gt;&gt;Refresh&gt;&gt;"Datei-Name"
 
 Schauen sie sich den ersten Layer bzw. den Skirt an und beurteilen
-sie das Ergebnis. Die nächsten Schritte die sie Eventuell tun sollten,
+sie das Ergebnis. Die nächsten Schritte, die sie eventuell tun sollten,
 sind unter "Qualitätssicherung" beschrieben.
 
 Nachdem sie die eventuellen Änderungen vorgenommen haben,
@@ -399,7 +399,7 @@ Gehen sie mit der Klinge unter eine Ecke des Objekts und fahren sie um das
 Objekt herum, sodass es am Rand überall gleich gelöst ist. Entweder es löst sich
 davon schon, oder sie gehen mit der Spachtel darunter und gehen gleichmäßig und
 ohne Druck unter dem Objekt herum und lösen es dadurch vorsichtig.
-Beim ganzen Vorgang halten sie das Werkzeug immer im flachen Winkel sonst
+Beim ganzen Vorgang halten sie das Werkzeug immer im flachen Winkel, sonst
 kann es sein, dass das Objekt dabei kaputt geht.
 
 ### Qualitätssicherung
@@ -416,7 +416,7 @@ Gehen sie zur Korrektur auf "Z-Axis offset"
 
 > Settings&gt;&gt;Z-Axis offset&gt;&gt;
 
-Gehen sie nach Gefühl mit dem Wert so weit runter wie sie denken,
+Gehen sie nach Gefühl mit dem Wert so weit runter, wie sie denken,
 gehen sie nicht zu weit runter.
 
 _Dabei können sie das Heatbed verbiegen_
@@ -441,7 +441,7 @@ von 0,1mm hat._
 ### Pflege
 
 **Aufhängung**: Die Aufhängung sollte regelmäßig nachgezogen werden,
-um das optimale Druckergebnis erzielen zu können. Im extrem Fall sollte man
+um das optimale Druckergebnis erzielen zu können. Im Extremfall sollte man
 die X-Achsen Aufhängungen nachdrucken und austauschen.
 Das Nachziehen wird unter:
 &gt;&gt;Hardware-Einstellungen&gt;&gt;Achsenvorbereitungen&gt;&gt;Feste Aufhängung.
@@ -450,8 +450,8 @@ _Man sollte sie vor einer eventuellen Beschädigung auf Vorrat drucken_
 
 **Achsen**: Die Spindelstangen der Z-Achse und die Führungsstangen der Y-Achse
 können mitunter recht laut sein. Deswegen sollte man sie regelmäßig einfetten
-und eventuell, vor dem erneuten einfetten, reinigen. Zum Einfetten tragen sie
-geringe Mengen auf beiden Seiten auf, nahe der Kontaktflächen und nehmen sie den
+und eventuell, vor dem erneuten Einfetten, reinigen. Zum Einfetten tragen sie
+geringe Mengen auf beiden Seiten auf, nahe der Kontaktflächen, und nehmen sie den
 Drucker wieder in Betrieb.
 
 _Zum Einfetten gibt es sehr gutes Modellbaufett. Es werden nur
@@ -482,8 +482,8 @@ beschädigt wurde, sollten sie es austauschen.
 Dazu ziehen sie das Pad ab und reinigen die darunteliegende Fläche
 mit Scheibenreiniger. Danach kleben sie ein neues Pad auf.
 
-**Höhe**: Die Höhe sollte bei jedem Druck neukontrolliert und korrigiert werden.
-Um einen guten Druck und erste Layer zu erreichen.
+**Höhe**: Die Höhe sollte bei jedem Druck neu kontrolliert und korrigiert werden,
+um einen guten Druck und erste Layer zu erreichen.
 Die Höhenkalibrierung wurde schon erklärt.
 Unter: &gt;&gt;Drucken&gt;&gt;Qualitätssicherung
 
@@ -492,7 +492,7 @@ Sie sollten es, auf jeden Fall das automatische, regelmäßig wiederholen.
 Den Artikel finden sie unter.
 &gt;&gt;Hardware-Einstellungen&gt;&gt;Leveling
 
-**Nachspannen**: Das Nachspannen der Riemen ist essentiel wichtig
+**Nachspannen**: Das Nachspannen der Riemen ist essentiel wichtig,
 um ein gleichmäßiges Druckergebnis zu gewährleisten.
 Dazu wird am eingebauten Y-Achsen Spanner leicht gedreht,
 bis sie es als gespannt erachten.
@@ -506,7 +506,7 @@ Riemen nochmal neu spannen.
 Dazu entfernen sie die Kabelbinder am Riemen und spannen den Riemen nach.
 Danach befestigen sie den Riemen mit zwei neuen Kabelbindern
 _Achten sie dabei darauf, dass die Kabelbinder nahe am Ankerpunkt liegen_
-Im Extrtemfall sollten sie sich einen neuen Riemenzulegen, da der jetztige zu
+Im Extrtemfall sollten sie sich einen neuen Riemen zulegen, da der Jetztige zu
 ausgeleiert sein kann.
 
 Kontrollieren sie die Spannung alle 200 Druckstunden.
