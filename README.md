@@ -1,12 +1,11 @@
 # TheoPraxAnleitungDrucker
-###Anleitung für Anet A8
-##Abstract:
+## Abstract:    
 Germen Experienced based manual for our Anet A8 3d Printer 
 and the Cura setup
 
 
 
-###HowTo: Wie nutze ich die Anleitung  
+### HowTo: Wie nutze ich die Anleitung      
 In dieser Einleitung werden die häufigsten Fehler und Probleme des 3d Druckers 
 sowie die Handhabung im Allgemeinen besprochen. Die Anleitung dient als Nachschlagwerk
 und erhebt dabei keinen Anspruch auf Vollständigkeit. Vielmehr soll sie die Grundlegenden 
