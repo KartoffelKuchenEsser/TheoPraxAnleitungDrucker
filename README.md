@@ -1,6 +1,6 @@
 # TheoPraxAnleitungDrucker
 ## Abstract:    
-Germen Experienced based manual for our Anet A8 3d Printer 
+German Experienced based manual for our Anet A8 3D Printer 
 and the Cura setup
 
 
